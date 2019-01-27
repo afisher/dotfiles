@@ -1,0 +1,18 @@
+{
+    "CLI with codado.tx.Main": {
+        "prefix": "codadomain",
+        "body": [
+            "from codado.tx import Main\n\n",
+            "class Options(Main):",
+            "    synopsis = '${1:Type a new synopsis}'",
+            "    optParameters = [",
+            "              [long, short, default, help]",
+            "            ]\n",
+            "    # def parseArgs(self, ...):\n",
+            "    # def postOptions(self):",
+            "    #     \"\"\"Recommended if there are subcommands:\"\"\"",
+            "    #     if self.subCommand is None:",
+            "    #         raise usage.UsageError('** Please specify a subcommand (see \\\"Commands\\\").')\n",
+        ]
+    }
+}
