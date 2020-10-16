@@ -28,4 +28,7 @@
     "diffEditor.renderSideBySide": false,
     "editor.fontSize": 16,
     "editor.renderWhitespace": "trailing",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
 }
