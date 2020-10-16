@@ -4,7 +4,6 @@ filetype plugin indent on
 
 syntax on
 set number
-color roboblu
 set t_Co=16
 set ruler
 set noswapfile
