@@ -25,4 +25,7 @@
         "treq"
     ],
     "breadcrumbs.enabled": true,
+    "diffEditor.renderSideBySide": false,
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "trailing",
 }

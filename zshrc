@@ -89,3 +89,4 @@ source $ZSH/oh-my-zsh.sh
 export PATH=/usr/local/bin:$PATH
 export EDITOR=vim
 
+alias '$'=""

@@ -13,7 +13,6 @@ Main() {
     Darwin) # Mac
       local app_support="$HOME/Library/Application Support"
       local vscode="$app_support/Code/User"
-      local aseprite="$app_support/Aseprite"
       Install_as "vscode/keybindings.json" "$vscode/keybindings.json"
       Install_as "vscode/settings.json" "$vscode/settings.json"
       Install_as "vscode/snippets" "$vscode/snippets"
