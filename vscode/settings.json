@@ -1,6 +1,5 @@
 {
-    "workbench.colorTheme": "Uno Due Tre (Dark)",
-    "python.venvPath": "~/Brightmd/.env",
+    "workbench.colorTheme": "Miasma",
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "atomKeymap.promptV3Features": true,
     "workbench.statusBar.visible": true,
@@ -9,7 +8,7 @@
     "python.linting.enabledWithoutWorkspace": false,
     "python.linting.prospectorEnabled": false,
     "python.linting.pylintEnabled": false,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "cSpell.userWords": [
